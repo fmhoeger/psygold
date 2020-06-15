@@ -1,7 +1,7 @@
 Package: psygold
 Type: Package
 Title: LongGold psychTestR listening tests, performance tests, and questionnaires
-Version: 0.99.0
+Version: 0.99.1
 Author: Frank Höger, Klaus Frieler
 Maintainer: Frank Höger <fmhoeger@mirsem.org>
 Description: Implementation of a LongGold test battery consisting of listening tests, performance tests, and questionnaires based on the psychTestR library. Demos of the whole set of tests and questionnaires can be accessed at https://shiny.gold-msi.org/longgold_demo.
@@ -23,7 +23,7 @@ Imports:
     tibble (>= 3.0.1),
     psylisten (>= 0.99.0),
     psyperform (>= 0.99.0),
-    psyquest (>= 0.99.0)
+    psyquest (>= 1.0.8)
 Suggests:
     codetools,
     covr,
