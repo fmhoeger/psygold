@@ -7,7 +7,7 @@ To install or update ``psygold`` execute the following in your R console:
 ```{r}
 remotes::install_github("fmhoeger/psygold")
 ```
-This will install the three meta-packages
+This will install the two meta-packages
 * ``psylisten`` which in turn includes the packages  
 cabat ([https://github.com/pmcharrison/cabat](https://github.com/pmcharrison/cabat))  
 BDT ([https://github.com/klausfrieler/BDT](https://github.com/klausfrieler/BDT))  
@@ -22,7 +22,7 @@ BDS ([https://github.com/klausfrieler/BDS](https://github.com/klausfrieler/BDS))
 JAJ ([https://github.com/klausfrieler/JAJ](https://github.com/klausfrieler/JAJ))  
 MIQ ([https://github.com/fmhoeger/MIQ](https://github.com/fmhoeger/MIQ))  
 
-* ``psyquest`` (https://github.com/fmhoeger/psyquest)
+and ``psyquest`` (https://github.com/fmhoeger/psyquest)
 
 For the complete removal of all LongGold ``psychTestR`` packages execute:
 ```{r}
