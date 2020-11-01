@@ -1,5 +1,5 @@
 # psygold
-The Complete collection of the LongGold ``psychTestR`` *listening tests*, *performance tests*, and *questionnaires*
+The complete collection of the LongGold ``psychTestR`` *listening tests*, *performance tests*, and *questionnaires*
 
 ## Installation
 
