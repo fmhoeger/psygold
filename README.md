@@ -9,17 +9,17 @@ remotes::install_github("fmhoeger/psygold")
 ```
 This will install the three meta-packages packages
 * ``psylisten`` which in turn includes the packages
-cabat (https://github.com/pmcharrison/cabat),
-BDT (https://github.com/klausfrieler/BDT),
-EDT (https://github.com/klausfrieler/EDT),
-mdt (https://github.com/pmcharrison/mdt),
-mpt (https://github.com/pmcharrison/mpt),
-piat (https://github.com/pmcharrison/piat),
+cabat (https://github.com/pmcharrison/cabat),\
+BDT (https://github.com/klausfrieler/BDT),\
+EDT (https://github.com/klausfrieler/EDT),\
+mdt (https://github.com/pmcharrison/mdt),\
+mpt (https://github.com/pmcharrison/mpt),\
+piat (https://github.com/pmcharrison/piat),\
 RAT (https://github.com/klausfrieler/RAT)
 
 * ``psyperform`` which in turn includes the packages
-BDS (https://github.com/klausfrieler/BDS),
-JAJ (https://github.com/klausfrieler/JAJ),
+BDS (https://github.com/klausfrieler/BDS),\
+JAJ (https://github.com/klausfrieler/JAJ),\
 MIQ (https://github.com/fmhoeger/MIQ)
 
 * ``psyquest`` (https://github.com/fmhoeger/psyquest)
