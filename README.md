@@ -3,7 +3,7 @@ The complete collection of the LongGold ``psychTestR`` *listening tests*, *perfo
 
 ## Installation
 
-To install or update ``psygold`` execute the following in your R console:  
+To install ``psygold`` execute the following in your R console:  
 ```{r}
 remotes::install_github("fmhoeger/psygold")
 ```
@@ -23,6 +23,10 @@ JAJ ([https://github.com/klausfrieler/JAJ](https://github.com/klausfrieler/JAJ))
 MIQ ([https://github.com/fmhoeger/MIQ](https://github.com/fmhoeger/MIQ))  
 
 and ``psyquest`` (https://github.com/fmhoeger/psyquest)
+
+## Updating
+
+By executing ``remotes::install_github("fmhoeger/psygold")`` you can also update all packages mentioned above. You will need to confirm the packages to be updated in the process, though.
 
 ## Removal
 
