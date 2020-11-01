@@ -24,6 +24,8 @@ MIQ ([https://github.com/fmhoeger/MIQ](https://github.com/fmhoeger/MIQ))
 
 and ``psyquest`` (https://github.com/fmhoeger/psyquest)
 
+## Removal
+
 For the complete removal of all LongGold ``psychTestR`` packages execute:
 ```{r}
 remove.packages("cabat")
