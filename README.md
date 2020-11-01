@@ -7,7 +7,7 @@ To install or update ``psygold`` execute the following in your R console:
 ```{r}
 remotes::install_github("fmhoeger/psygold")
 ```
-This will install the three meta-packages packages
+This will install the three meta-packages
 * ``psylisten`` which in turn includes the packages  
 cabat ([https://github.com/pmcharrison/cabat](https://github.com/pmcharrison/cabat))  
 BDT ([https://github.com/klausfrieler/BDT](https://github.com/klausfrieler/BDT))  
